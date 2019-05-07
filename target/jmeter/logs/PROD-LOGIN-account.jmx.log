@@ -1,0 +1,87 @@
+2019/05/07 14:18:21 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_DE 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: Loading user properties from: /Users/manoj_kengudelu/jmtests/target/jmeter/bin/user.properties 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: Loading system properties from: /Users/manoj_kengudelu/jmtests/target/jmeter/bin/system.properties 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: Version 3.0 r1743807 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: java.version=1.8.0_202 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: os.arch=x86_64 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: os.version=10.13.6 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: Max memory     =514850816 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: Available Processors =4 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: Default Locale=English (Germany) 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: JMeter  Locale=English (Germany) 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: JMeterHome=/Users/manoj_kengudelu/jmtests/target/jmeter 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: user.dir  =/Users/manoj_kengudelu/jmtests/target/jmeter/bin 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: PWD       =/Users/manoj_kengudelu/jmtests/target/jmeter/bin 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: IP: 10.20.20.16 Name: Manojs-MacBook-Pro.local FullName: 10.20.20.16 
+2019/05/07 14:18:22 INFO  - jmeter.services.FileServer: Default base='/Users/manoj_kengudelu/jmtests/target/jmeter/bin' 
+2019/05/07 14:18:22 INFO  - jmeter.services.FileServer: Set new base='/Users/manoj_kengudelu/jmtests/target/jmeter/testFiles' 
+2019/05/07 14:18:22 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2019/05/07 14:18:22 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2019/05/07 14:18:22 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.9 
+2019/05/07 14:18:22 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2019/05/07 14:18:22 INFO  - jmeter.save.SaveService: Loading file: /Users/manoj_kengudelu/jmtests/target/jmeter/testFiles/PROD-LOGIN-account.jmx 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.control.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_ 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.control.CacheManager: Will only cache the following methods: [GET] 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: Creating summariser <summary> 
+2019/05/07 14:18:22 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2019/05/07 14:18:22 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2019/05/07 14:18:22 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2019/05/07 14:18:22 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2019/05/07 14:18:22 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2019/05/07 14:18:22 INFO  - jmeter.JMeter: Running test (1557231502561) 
+2019/05/07 14:18:22 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2019/05/07 14:18:22 INFO  - jmeter.engine.StandardJMeterEngine: Starting 5 threads for group Thread Group. 
+2019/05/07 14:18:22 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2019/05/07 14:18:22 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 5 ramp-up 1 perThread 200.0 delayedStart=false 
+2019/05/07 14:18:22 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2019/05/07 14:18:22 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2019/05/07 14:18:22 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = Manojs-MacBook-Pro.local 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2019/05/07 14:18:22 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2019/05/07 14:18:22 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2019/05/07 14:18:22 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2019/05/07 14:18:22 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2019/05/07 14:18:22 INFO  - jmeter.protocol.http.sampler.LazySchemeSocketFactory: Setting up HTTPS TrustAll Socket Factory 
+2019/05/07 14:18:22 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2019/05/07 14:18:22 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2019/05/07 14:18:22 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
+2019/05/07 14:18:22 INFO  - jmeter.util.SSLManager: JmeterKeyStore Location:  type JKS 
+2019/05/07 14:18:22 INFO  - jmeter.util.SSLManager: KeyStore created OK 
+2019/05/07 14:18:22 WARN  - jmeter.util.SSLManager: Keystore file not found, loading empty keystore 
+2019/05/07 14:18:23 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
+2019/05/07 14:18:23 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-4 
+2019/05/07 14:18:23 INFO  - jmeter.protocol.http.parser.BaseParser: Created org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2019/05/07 14:18:23 INFO  - jmeter.protocol.http.parser.BaseParser: Created org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2019/05/07 14:18:23 INFO  - jmeter.protocol.http.sampler.ResourcesDownloader: Creating ResourcesDownloader with keepalive_inseconds:60 
+2019/05/07 14:18:23 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-5 
+2019/05/07 14:18:23 INFO  - jmeter.protocol.http.parser.BaseParser: Created org.apache.jmeter.protocol.http.parser.CssParser 
+2019/05/07 14:18:33 WARN  - jmeter.protocol.http.control.HC3CookieHandler: Not storing invalid cookie: <X-AUTH-COOKIE=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJib25pZnl0ZXN0aW5nK2VAZ21haWwuY29tfEFBQUJhVGwrUXAwPSIsImp0aSI6IiQyYSQxMCRrLjBxRGV0ZnFiMmhSblk1dDBVWmFlUVpKU3VjeG9jZmxqRUJvaWozQndmU08udC5WcnVncSIsInNlc3Npb24iOiJCRXpfV2tQa1RxZnpjcmJZVDdZdWxMbE9La0VzYWpwQkVsWk1MQlVHNkZEVSIsImlhdCI6MTU1NzIzMTUxM30.UhMNM7_jhV5Scvh7dngixzcr_F-mhT6nJ4w_hifOHuQ;Path=/api/;HttpOnly> for URL https://my.bonify.de/pub/v1/login/1.1 (Illegal path attribute "/api/". Path of origin: "/pub/v1/login/1.1") 
+2019/05/07 14:18:33 WARN  - jmeter.protocol.http.control.HC3CookieHandler: Not storing invalid cookie: <X-AUTH-COOKIE=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJib25pZnl0ZXN0aW5nK2VAZ21haWwuY29tfEFBQUJhVGwrUXAwPSIsImp0aSI6IiQyYSQxMCRrLjBxRGV0ZnFiMmhSblk1dDBVWmFlUVpKU3VjeG9jZmxqRUJvaWozQndmU08udC5WcnVncSIsInNlc3Npb24iOiJpSE5rdEFickhRZ2tpbVV6MmNsN00zUi02OTA1d2NYRUtXSkgtS1lpRzk1VyIsImlhdCI6MTU1NzIzMTUxM30.ySw0-U9CAOE-A-6MkW2wE6d4OA_M13sb4jteUrFsaeo;Path=/api/;HttpOnly> for URL https://my.bonify.de/pub/v1/login/1.1 (Illegal path attribute "/api/". Path of origin: "/pub/v1/login/1.1") 
+2019/05/07 14:18:33 INFO  - jmeter.reporters.Summariser: summary +     11 in 00:00:11 =    1.0/s Avg:   554 Min:   155 Max:  1469 Err:     0 (0.00%) Active: 5 Started: 5 Finished: 0 
+2019/05/07 14:18:33 WARN  - jmeter.protocol.http.control.HC3CookieHandler: Not storing invalid cookie: <X-AUTH-COOKIE=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJib25pZnl0ZXN0aW5nK2VAZ21haWwuY29tfEFBQUJhVGwrUXAwPSIsImp0aSI6IiQyYSQxMCRrLjBxRGV0ZnFiMmhSblk1dDBVWmFlUVpKU3VjeG9jZmxqRUJvaWozQndmU08udC5WcnVncSIsInNlc3Npb24iOiJxaHQ2dXlKNEs5NEYyX2gyMjFudFlBSVVwRXZSV1JiU3dha3N1SktpN3NoNCIsImlhdCI6MTU1NzIzMTUxM30.cdOx2PBK6mF0CUTpMTyEFxmCjueetv05DY8a0Gx_4y0;Path=/api/;HttpOnly> for URL https://my.bonify.de/pub/v1/login/1.1 (Illegal path attribute "/api/". Path of origin: "/pub/v1/login/1.1") 
+2019/05/07 14:18:33 WARN  - jmeter.protocol.http.control.HC3CookieHandler: Not storing invalid cookie: <X-AUTH-COOKIE=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJib25pZnl0ZXN0aW5nK2VAZ21haWwuY29tfEFBQUJhVGwrUXAwPSIsImp0aSI6IiQyYSQxMCRrLjBxRGV0ZnFiMmhSblk1dDBVWmFlUVpKU3VjeG9jZmxqRUJvaWozQndmU08udC5WcnVncSIsInNlc3Npb24iOiJOMVhleFRuQWwyLTdZNTFhdHo3MGtlVi1tVG1YRG12NnBZakdHeDdWNzdfZCIsImlhdCI6MTU1NzIzMTUxM30.IrEFY3nMWclrE5bUMI4jMH0dyxuGPy1NwCb1tacnOEM;Path=/api/;HttpOnly> for URL https://my.bonify.de/pub/v1/login/1.1 (Illegal path attribute "/api/". Path of origin: "/pub/v1/login/1.1") 
+2019/05/07 14:18:33 WARN  - jmeter.protocol.http.control.HC3CookieHandler: Not storing invalid cookie: <X-AUTH-COOKIE=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJib25pZnl0ZXN0aW5nK2VAZ21haWwuY29tfEFBQUJhVGwrUXAwPSIsImp0aSI6IiQyYSQxMCRrLjBxRGV0ZnFiMmhSblk1dDBVWmFlUVpKU3VjeG9jZmxqRUJvaWozQndmU08udC5WcnVncSIsInNlc3Npb24iOiJoODZPTUZjd0pES1FNMENxR01OZ3VTTmVNa19nTkpTRTVCU1BBeDlSZEMyRiIsImlhdCI6MTU1NzIzMTUxM30.94dV-Pj9jThYDKsJ4mVqjH_lX5QyOOYlTPtjt0tMmLI;Path=/api/;HttpOnly> for URL https://my.bonify.de/pub/v1/login/1.1 (Illegal path attribute "/api/". Path of origin: "/pub/v1/login/1.1") 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-2 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-5 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-5 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-4 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-4 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-3 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-1 
+2019/05/07 14:18:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2019/05/07 14:18:34 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2019/05/07 14:18:34 INFO  - jmeter.reporters.Summariser: summary +     24 in 00:00:00 =   77.2/s Avg:    93 Min:    30 Max:   268 Err:     0 (0.00%) Active: 0 Started: 5 Finished: 5 
+2019/05/07 14:18:34 INFO  - jmeter.reporters.Summariser: summary =     35 in 00:00:12 =    3.0/s Avg:   238 Min:    30 Max:  1469 Err:     0 (0.00%) 
